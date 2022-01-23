@@ -1,1 +1,1 @@
-HTML project introduced in the foundations section of the Odin Project.
+HTML project introduced in the foundations section of the Odin Project. Skill to be learned and utilize include creating HTML boilerplate, element tags such as img, p, h1, ol, and ul, and creating absolute and relative links throughout website via anchor tags and hypertext references.
